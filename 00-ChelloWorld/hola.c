@@ -2,8 +2,6 @@
 #include<stdlib.h>
 
 int main(void){
-    FILE* f = fopen("output.txt","w");
-    fprintf(f,"Hello, World!");
-    fclose(f);
+    puts("Hello, World");
     return 0;
 }
