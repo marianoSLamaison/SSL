@@ -1,1 +1,1 @@
-El compiler usado es mingw64 usado c17
+El compiler usado es mingw64 usando c17
